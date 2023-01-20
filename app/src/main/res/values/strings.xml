@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Nada Eltorgoman</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi! I\'m nada ,
+        \n\nThe abbreviation of my name is NKT ,
+        \n\nI\'m 20,
+        \n\nI\'m from Port said ,
+        \nI\'m in FCI SCU ,
+        \n\nI\'m in CS department,
+        \n\n my fav field is App Developer &amp; Web development,
+        \nI wanna work at google in future
+        \n\nI hope to visit the whole world.\n\n</string>
+    <string name="What_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="nickname_text">nickname text</string>
+</resources>
